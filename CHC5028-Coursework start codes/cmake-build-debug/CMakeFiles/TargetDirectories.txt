@@ -1,0 +1,3 @@
+D:/SOURCES/QQ/chc5028-coursework-start-codes/chc5028-coursework-start-codes/CHC5028-Coursework start codes/cmake-build-debug/CMakeFiles/textadv.dir
+D:/SOURCES/QQ/chc5028-coursework-start-codes/chc5028-coursework-start-codes/CHC5028-Coursework start codes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SOURCES/QQ/chc5028-coursework-start-codes/chc5028-coursework-start-codes/CHC5028-Coursework start codes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
